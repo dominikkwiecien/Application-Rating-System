@@ -111,35 +111,6 @@ plt.ylabel('Average Rating')
 plt.show()
 ```
 
-### Installation and Usage
-
-To run this project on your local machine:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/application-rating-project.git
-    cd application-rating-project
-    ```
-
-2. Install the required Python packages:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Execute the Jupyter Notebook or Python script:
-
-    ```bash
-    jupyter notebook application_rating.ipynb
-    ```
-
-### Files in the Repository
-
-- `application_rating.ipynb` - The Jupyter Notebook containing the full implementation of the project.
-- `applications.csv` - The dataset containing application information.
-- `industries.csv` - The dataset containing industry-related scores.
-- `README.md` - This file, explaining the project and providing instructions for usage.
 
 ### Conclusion
 
